@@ -8,3 +8,5 @@ Lakukan Braching
 hapus ini di master
 
 semangat belajar
+
+masukkan ke main
